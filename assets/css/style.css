@@ -1,0 +1,33 @@
+/* You may use the following selectors, but it's not required. */
+#thumbnail img {
+	width: 500px;
+	padding: 10px 10px 10px 10px;
+}
+body {
+	font-family: Avenir;	
+	text-align: center;
+	font-size: 20px;
+}
+
+#header {
+	font-size: 75px;
+	font-family: bromello;
+	padding: 20px 20px 20px 20px;
+}
+
+#subheader {
+	font-style: italic;
+	padding: 0px 20px 20px 20px;
+}
+
+#link {
+	width: 200px;
+	padding: 20px 20px;
+	margin: 30px auto 30px;
+	background-color: #000000;
+	color: white;
+}
+
+a {
+	text-decoration: none;
+}
